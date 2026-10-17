@@ -1,2 +1,2 @@
-# remote-scripts
-tiny shell script for handling KDE Connect commands
+tiny script for handling commands via KDE Connect.  
+only needed this for notifications
